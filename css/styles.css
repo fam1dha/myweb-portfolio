@@ -1,0 +1,18 @@
+.content sector{
+    padding-left: 3px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.image section{
+    float: left;
+    width: 40%;
+
+}
+.content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: large;
+    font-weight: 900;
+
+    
+}
